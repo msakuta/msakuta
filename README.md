@@ -1,16 +1,33 @@
-### Hi there 👋
+## Recent projects
 
-<!--
-**msakuta/msakuta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+See [here](https://msakuta.github.io/showcase.html) for more full showcase.
 
-Here are some ideas to get you started:
+### rustograd
+<a href="https://github.com/msakuta/rustograd">
+<div>An experimental implementation of autograd in Rust</div>
+<div><img src="images/showcase/rustograd.gif" alt="" style="min-width: 100%;"/></div>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### DeepRender
+<a href="https://github.com/msakuta/DeepRender">
+    <div>An experimental Neural Network trainer/visualizer in Rust</div>
+    <div><img src="images/showcase/DeepRender.gif" alt="" style="min-width: 100%;"/></div>
+</a>
+
+### Swarm-rs
+<a href="https://github.com/msakuta/swarm-rs">
+    <div>swarm-js ported to Rust eframe application</div>
+    <div><img src="images/showcase/swarm-rs.png" alt="" style="min-width: 100%;"/></div>
+</a>
+
+### cfd-wasm
+<a href="https://github.com/msakuta/cfd-wasm">
+    <div>Computational Fluid Dynamics in Wasm with Rust</div>
+    <div><img src="images/showcase/cfd.gif" alt="" /></div>
+</a>
+
+### WebGL-Orbiter
+<a href="https://github.com/msakuta/WebGL-Orbiter">
+    <div>Rocket orbital simulator on the web</div>
+    <div><img src="images/showcase/WebGL-Orbiter.jpg" alt="" /></div>
+</a>
