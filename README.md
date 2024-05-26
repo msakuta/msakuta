@@ -2,6 +2,15 @@
 
 See [here](https://msakuta.github.io/showcase.html) for more full showcase.
 
+### asteroid-colonies
+<div class="showcase">
+    <a href="https://github.com/msakuta/asteroid-colonies">
+        <h2>asteroid-colonies</h2>
+        <div>An HTML5 game to build and manage asteroid colonies</div>
+        <div><img src="images/showcase/asteroid-colonies.png" alt="" style="width: 50%;"/></div>
+    </a>
+</div>
+
 ### rustograd
 <a href="https://github.com/msakuta/rustograd">
 <div>An experimental implementation of autograd in Rust</div>
