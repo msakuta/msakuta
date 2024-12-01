@@ -3,6 +3,23 @@
 ## Recent projects
 
 See [here](https://msakuta.github.io/showcase.html) for more full showcase.
+There are too many to put here.
+
+### box-connector
+<div class="showcase">
+<a href="https://github.com/msakuta/box-connector">
+<div>A demo program for algorithm to make connections between nodes without overlapping</div>
+<div><img src="images/showcase/box-connector.png" alt="" style="width: 50%;"/></div>
+</a>
+</div>
+
+### rustrol
+<div class="showcase">
+<a href="https://github.com/msakuta/rustrol">
+<div>Control algorithm demonstration project in Rust</div>
+<div><img src="images/showcase/rustrol.png" alt="" style="width: 50%;"/></div>
+</a>
+</div>
 
 ### asteroid-colonies
 <div class="showcase">
