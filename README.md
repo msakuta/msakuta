@@ -5,6 +5,14 @@
 See [here](https://msakuta.github.io/showcase.html) for more full showcase.
 There are too many to put here.
 
+### rust-anneal
+<div class="showcase">
+<a href="https://github.com/msakuta/rust-anneal">
+<div>A simulated annealing demo program to heuristically solve TSP in Rust</div>
+<div><img src="images/showcase/rust-anneal.png" alt="" style="width: 50%;"/></div>
+</a>
+</div>
+
 ### box-connector
 <div class="showcase">
 <a href="https://github.com/msakuta/box-connector">
@@ -53,8 +61,3 @@ There are too many to put here.
     <div><img src="images/showcase/cfd-wasm.jpg" alt="" style="width: 25%;" /></div>
 </a>
 
-### WebGL-Orbiter
-<a href="https://github.com/msakuta/WebGL-Orbiter">
-    <div>Rocket orbital simulator on the web</div>
-    <div><img src="images/showcase/WebGL-Orbiter.jpg" alt="" style="width: 25%;"/></div>
-</a>
